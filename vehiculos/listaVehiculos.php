@@ -70,6 +70,9 @@
 
     </table>
 
+    <br/>
+
+    <a href="borrarTodos.php">Eliminar todos</a>
 </body>
 
 </html>
